@@ -1,0 +1,12 @@
+com.example.tictactoe.app-support-compat-28.0.0-0 C:\Users\rupes\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\res
+com.example.tictactoe.app-constraint-layout-2.0.4-1 C:\Users\rupes\.gradle\caches\transforms-3\314c9faa7cd2f445aed8999caa4aba56\transformed\constraint-layout-2.0.4\res
+com.example.tictactoe.app-coordinatorlayout-28.0.0-2 C:\Users\rupes\.gradle\caches\transforms-3\568c762957e87adb25eac94f3bddea2d\transformed\coordinatorlayout-28.0.0\res
+com.example.tictactoe.app-appcompat-v7-28.0.0-3 C:\Users\rupes\.gradle\caches\transforms-3\ea5271aff2e9b4fa4c0a0cdbc7dd64f1\transformed\appcompat-v7-28.0.0\res
+com.example.tictactoe.app-pngs-4 C:\Users\rupes\TicTacToe\app\build\generated\res\pngs\release
+com.example.tictactoe.app-resValues-5 C:\Users\rupes\TicTacToe\app\build\generated\res\resValues\release
+com.example.tictactoe.app-rs-6 C:\Users\rupes\TicTacToe\app\build\generated\res\rs\release
+com.example.tictactoe.app-packageReleaseResources-7 C:\Users\rupes\TicTacToe\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.tictactoe.app-packageReleaseResources-8 C:\Users\rupes\TicTacToe\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.tictactoe.app-merged_res-9 C:\Users\rupes\TicTacToe\app\build\intermediates\merged_res\release
+com.example.tictactoe.app-main-10 C:\Users\rupes\TicTacToe\app\src\main\res
+com.example.tictactoe.app-release-11 C:\Users\rupes\TicTacToe\app\src\release\res
